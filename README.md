@@ -82,4 +82,3 @@ LED序号排布方式如下（5 * 5）：
 | MPU9250_INT        | GPIO 16 | Digital Input                       |
 | R_LED(SPI_SCK)     | GPIO 18 | Digital Output                      |
 
-
